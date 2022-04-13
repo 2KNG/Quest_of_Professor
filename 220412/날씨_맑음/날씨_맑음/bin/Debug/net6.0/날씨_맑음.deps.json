@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "날씨_맑음/1.0.0": {
+        "runtime": {
+          "날씨_맑음.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "날씨_맑음/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

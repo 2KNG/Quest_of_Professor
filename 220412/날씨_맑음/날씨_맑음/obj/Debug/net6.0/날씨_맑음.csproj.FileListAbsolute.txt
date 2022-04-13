@@ -1,0 +1,15 @@
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/bin/Debug/net6.0/날씨_맑음
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/bin/Debug/net6.0/날씨_맑음.deps.json
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/bin/Debug/net6.0/날씨_맑음.runtimeconfig.json
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/bin/Debug/net6.0/날씨_맑음.dll
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/bin/Debug/net6.0/날씨_맑음.pdb
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/obj/Debug/net6.0/날씨_맑음.csproj.AssemblyReference.cache
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/obj/Debug/net6.0/날씨_맑음.GeneratedMSBuildEditorConfig.editorconfig
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/obj/Debug/net6.0/날씨_맑음.AssemblyInfoInputs.cache
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/obj/Debug/net6.0/날씨_맑음.AssemblyInfo.cs
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/obj/Debug/net6.0/날씨_맑음.csproj.CoreCompileInputs.cache
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/obj/Debug/net6.0/날씨_맑음.dll
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/obj/Debug/net6.0/refint/날씨_맑음.dll
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/obj/Debug/net6.0/날씨_맑음.pdb
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/obj/Debug/net6.0/날씨_맑음.genruntimeconfig.cache
+/Users/2kng/dev/github/professor_quest/Quest_of_Professor/220412/날씨_맑음/날씨_맑음/obj/Debug/net6.0/ref/날씨_맑음.dll
